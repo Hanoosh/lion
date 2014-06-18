@@ -9,7 +9,7 @@ LION
     Block Time:  120 seconds
     Block Reward: 15 LION
     Difficulty Retarget:  DigiShield
-    Coin Maturity: 300 blocks
+    Coin Maturity: 320 blocks
     Confirms: 4
  
 
